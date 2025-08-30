@@ -3,6 +3,7 @@
     {
       "source": "/(.*)",
       "destination": "/index.html"
+      
     }
   ]
 }
